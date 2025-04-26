@@ -45,13 +45,11 @@ header h1 {
 header h3 {
     text-align: justify;
     font-size: 18px;
-    padding: 5px;
     transition: transform 2.5s;
 }
 
-header h3 {
+header h2 {
     text-align: justify;
     font-size: 22px;
-    padding: 8px;
     transition: transform 2.5s;
 }
