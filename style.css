@@ -11,12 +11,12 @@ body .page {
 }
 
 header {
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 header h1 {
     text-align: center;
-    font-size: 32px;
+    font-size: 38px;
     padding: 150px;
     transition: transform 2.5s;
 }
