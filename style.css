@@ -1,0 +1,50 @@
+body {
+    background-color: #141414;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+}
+
+body .page {
+    margin: 20px 80px;
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    background-color: #141414;
+    padding: 10px 0px;
+}
+
+nav .onglets {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5px;
+}
+
+nav .onglets a {
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+header {
+    margin-top: 40px;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 60px;
+    padding: 150px;
+    transition: transform 2.5s;
+}
+
+header a {
+    text-align: left;
+    font-size: 30px;
+    padding: 50px;
+    transition: transform 2.5s;
+}
